@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Activly</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_branch">Programme &amp; Branch</string>
+    <string name="enter_year_of_study">Enter the year(e.g. 1)</string>
+    <string name="enter_your_institute_e_mail_address">Enter Institute E-Mail Id</string>
+    <string name="enter_your_mobile_number">Enter mobile number</string>
+    <string name="submit">SUBMIT</string>
+</resources>
